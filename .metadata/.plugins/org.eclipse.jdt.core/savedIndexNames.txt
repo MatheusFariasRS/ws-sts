@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+C:\Users\Pichau\Desktop\dw-sts\.metadata\.plugins\org.eclipse.jdt.core
+4266656433.index
+2374071688.index
+1823041214.index
+3088208785.index
+3769525746.index
+796986649.index
+1245823423.index
+450921047.index
+4138658460.index
+1099387706.index
+4012397551.index
+1622116656.index
+1311388581.index
+1299114381.index
+3631774882.index
+276765794.index
+2199941395.index
+3975626765.index
+1251651803.index
+2261489679.index
+1865797976.index
+2642703618.index
